@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujan</h1>
 <h3 align="center">A passionate Data Science and web3 dev from India</h3>
 
-<p align="left"> <a href="https://twitter.com/g570ujan" target="blank"><img src="https://img.shields.io/twitter/follow/g570ujan?logo=twitter&style=for-the-badge" alt="g570ujan" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
